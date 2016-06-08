@@ -10,10 +10,7 @@ library(d3vennR)
 
 #-----------------------------------------------------Load MACS2 and BayesPeak data
 
-# karenina_macs <- read.delim("C:/Users/Owner/Box Sync/chip_seq/macs2/karenina_SSY_Siamang_CTCF_VS_inputctrl_peaks.narrowPeak", header= FALSE, sep="\t", stringsAsFactors = FALSE)
-# monty_macs <- read.delim("C:/Users/Owner/Box Sync/chip_seq/macs2/monty_SSY_Siamang_CTCF_VS_inputctrl_peaks.narrowPeak", header= FALSE, sep="\t", stringsAsFactors = FALSE)
-# karenina_bayp <- read.delim("C:/Users/Owner/Box Sync/chip_seq/bayespeak/bayespeak_results/karenina_thresh0.txt", header= TRUE, sep=" ", stringsAsFactors = FALSE)
-# monty_bayp <- read.delim("C:/Users/Owner/Box Sync/chip_seq/bayespeak/bayespeak_results/monty_thresh0.txt", header= TRUE, sep=" ", stringsAsFactors = FALSE)
+
 
 karenina_macs <- read.delim("data/karenina_SSY_Siamang_CTCF_VS_inputctrl_peaks.narrowPeak", header= FALSE, sep="\t", stringsAsFactors = FALSE)
 monty_macs <- read.delim("data/monty_SSY_Siamang_CTCF_VS_inputctrl_peaks.narrowPeak", header= FALSE, sep="\t", stringsAsFactors = FALSE)
