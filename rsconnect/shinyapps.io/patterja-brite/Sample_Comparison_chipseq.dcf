@@ -1,9 +1,0 @@
-name: Sample_Comparison_chipseq
-account: patterja-brite
-server: shinyapps.io
-appId: 60454
-bundleId: 464740
-url: https://patterja-brite.shinyapps.io/Sample_Comparison_chipseq/
-when: 1464382494.623
-asMultiple: FALSE
-asStatic: FALSE
